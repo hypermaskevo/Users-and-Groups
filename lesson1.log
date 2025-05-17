@@ -1,0 +1,18 @@
+
+## Tasks Completed
+1. Created the full folder structure.
+2. Navigated to `delta` and printed the full path.
+3. Listed contents of `lesson-01` in long format including hidden files.
+4. Created a hidden file in `alpha`.
+5. Navigated from `delta` to `alpha` using only relative paths.
+6. Created `map.txt` inside `beta`.
+7. Used absolute path from home to jump directly into `delta`.
+8. Moved two levels up and listed directory contents.
+9. Returned to home directory in one command.
+10. Created `lesson01.log` with current working directory output.
+
+## Outcome
+By completing this lesson, I:
+- Practiced essential file navigation in Linux.
+- Improved speed and confidence using the terminal.
+- Learned to organize folders and move through complex paths.
